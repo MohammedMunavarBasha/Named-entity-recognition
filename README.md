@@ -1,4 +1,4 @@
-# EXPERIMENT 07: NAMED ENTITY RECOGNITION
+# EXPERIMENT 06: NAMED ENTITY RECOGNITION
 
 ## AIM:
 To develop an LSTM-based model for recognizing the named entities in the text.
